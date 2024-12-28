@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","26867","Multiple Files","chromium","Fri Dec 27 17:45:45 IST 2024","passed","Fri Dec 27 17:46:12 IST 2024","","UploadFile.spec.js","",""
+"","14101","SwagLabs","chromium","Fri Dec 27 17:11:09 IST 2024","passed","Fri Dec 27 17:11:23 IST 2024","","swag.spec.js","",""
+"","10031","Sample","chromium","Fri Dec 27 17:45:45 IST 2024","passed","Fri Dec 27 17:45:55 IST 2024","","WebTable2.spec.js","",""
+"","21701","Handle tabs/Windows/pages","chromium","Fri Dec 27 17:46:17 IST 2024","failed","Fri Dec 27 17:46:38 IST 2024","","WindowsHandling.spec.js","",""

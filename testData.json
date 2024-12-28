@@ -1,0 +1,17 @@
+{
+    "validUser": {
+      "username": "standard_user",
+      "password": "secret_sauce"
+    },
+    "invalidUser": {
+      "username": "secret_sauce",
+      "password": "wrongpassword"
+    },
+
+    "UserDetails": {
+      "firstName": "Jivita",
+      "lastName": "Trends",
+      "pincode": "600030"
+    }
+  }
+  
